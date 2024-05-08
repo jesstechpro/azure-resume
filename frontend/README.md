@@ -6,3 +6,6 @@ My own azure resume.
 - Frontend folder contains website.
 - main.js contains visitor counter code.
 
+```js
+const
+```
